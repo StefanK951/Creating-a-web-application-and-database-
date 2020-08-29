@@ -1,0 +1,24 @@
+body{
+	font-family:Verdana;
+}
+.changeinfo{
+	width: 50%;
+}
+.btn-signup{
+	width: 100%;
+	background: #1CC53C;
+	border: 2px solid #F98884;
+	color: white;
+	padding: 5px;
+	font-size: 18px;
+	cursor: pointer;
+	margin: 12px 0;
+	border-radius: 6px;
+}
+.personalinfo{
+	display:inline-block;
+	border: 2px solid black ;
+	margin-top: -200px;
+	padding:11px;
+	font-family: Verdana ;
+}
